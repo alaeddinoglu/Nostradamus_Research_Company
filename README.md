@@ -41,7 +41,7 @@ We studied the correlation between both numerical and non-numerical variables an
 
 
 
-![](assets/heatmap.png)
+![](heatmap.png)
 
 
 
