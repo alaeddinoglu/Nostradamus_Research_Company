@@ -153,7 +153,7 @@ You can see the plot showing the predictions vs the true values of testing data 
 
 
 
-![](assets/regplot.png)
+![](regplot.png)
 
 
 
